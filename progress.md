@@ -3,7 +3,7 @@
 | Day | Date       | Progress Notes                |
 |----|------------|-------------------------------|
 | 1  | 30/07/2025 |  Links and image in html      |
-| 2  |            |                               |
+| 2  | 31/07/2025 |  Cascade and box model CSS    |
 | 3  |            |                               |
 | 4  |            |                               |
 | 5  |            |                               |
