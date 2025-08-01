@@ -4,7 +4,7 @@
 |----|------------|-------------------------------|
 | 1  | 30/07/2025 |  Links and image in html      |
 | 2  | 31/07/2025 |  Cascade and box model CSS    |
-| 3  |            |                               |
+| 3  | 01/08/2025 |  Ganti VM Ubuntu Dengan dual boot ubuntu    |
 | 4  |            |                               |
 | 5  |            |                               |
 | 6  |            |                               |
