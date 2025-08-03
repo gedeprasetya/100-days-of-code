@@ -5,8 +5,8 @@
 | 1  | 30/07/2025 |  Links and image in html      |
 | 2  | 31/07/2025 |  Cascade and box model CSS    |
 | 3  | 01/08/2025 |  Ganti VM Ubuntu Dengan dual boot ubuntu    |
-| 4  |            |                               |
-| 5  |            |                               |
+| 4  | 02/08/2025 |  Push odin project recipes|
+| 5  | 03/08/2025 |  continue on midnight (coz now still on the road  |
 | 6  |            |                               |
 | 7  |            |                               |
 | 8  |            |                               |
