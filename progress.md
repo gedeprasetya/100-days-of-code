@@ -9,7 +9,7 @@
 | 5  | 03/08/2025 |  just read about the odin project and talk with my tech fellas|
 | 6  | 04/08/2025 |  set up plan learning review weekly|
 | 7  | 05/08/2025 |  submitted odin landing page assignment|
-| 8  |            |                               |
+| 8  | 06/08/2025 |  learn variables and operators javascript|
 | 9  |            |                               |
 | 10  |            |                               |
 | 11  |            |                               |
