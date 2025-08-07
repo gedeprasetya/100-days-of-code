@@ -10,7 +10,7 @@
 | 6  | 04/08/2025 |  set up plan learning review weekly|
 | 7  | 05/08/2025 |  submitted odin landing page assignment|
 | 8  | 06/08/2025 |  learn variables and operators javascript|
-| 9  |            |                               |
+| 9  | 07/08/2025 |  installing node js and why use node|
 | 10  |            |                               |
 | 11  |            |                               |
 | 12  |            |                               |
