@@ -2,16 +2,16 @@
 
 | Day | Date       | Progress Notes                |
 |----|------------|-------------------------------|
-| 1  | 30/07/2025 |  Links and image in html      |
-| 2  | 31/07/2025 |  Cascade and box model CSS    |
-| 3  | 01/08/2025 |  Ganti VM Ubuntu Dengan dual boot ubuntu|
-| 4  | 02/08/2025 |  Push odin project recipes    |
-| 5  | 03/08/2025 |  just read about the odin project and talk with my tech fellas|
-| 6  | 04/08/2025 |  set up plan learning review weekly|
-| 7  | 05/08/2025 |  submitted odin landing page assignment|
-| 8  | 06/08/2025 |  learn variables and operators javascript|
-| 9  | 07/08/2025 |  installing node js and why use node|
-| 10  |            |                               |
+| 1  | 30/07/2025 | Links and image in html      |
+| 2  | 31/07/2025 | Cascade and box model CSS    |
+| 3  | 01/08/2025 | Ganti VM Ubuntu Dengan dual boot ubuntu|
+| 4  | 02/08/2025 | Push odin project recipes    |
+| 5  | 03/08/2025 | just read about the odin project and talk with my tech fellas|
+| 6  | 04/08/2025 | set up plan learning review weekly|
+| 7  | 05/08/2025 | submitted odin landing page assignment|
+| 8  | 06/08/2025 | learn variables and operators javascript|
+| 9  | 07/08/2025 | installing node js and why use node|
+| 10 | 08/08/2025 | learn data types and conditionals|
 | 11  |            |                               |
 | 12  |            |                               |
 | 13  |            |                               |
