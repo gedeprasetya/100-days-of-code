@@ -12,7 +12,7 @@
 | 8  | 06/08/2025 | learn variables and operators javascript|
 | 9  | 07/08/2025 | installing node js and why use node|
 | 10 | 08/08/2025 | learn data types and conditionals|
-| 11  |            |                               |
+| 11 | 09/08/2025 | exploration conditional and data types|
 | 12  |            |                               |
 | 13  |            |                               |
 | 14  |            |                               |
