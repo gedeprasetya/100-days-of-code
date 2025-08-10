@@ -13,7 +13,7 @@
 | 9  | 07/08/2025 | installing node js and why use node|
 | 10 | 08/08/2025 | learn data types and conditionals|
 | 11 | 09/08/2025 | exploration conditional and data types|
-| 12  |            |                               |
+| 12 | 10/08/2025 | fork and set up javascript-exercise from the odin project |
 | 13  |            |                               |
 | 14  |            |                               |
 | 15  |            |                               |
