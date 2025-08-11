@@ -14,7 +14,7 @@
 | 10 | 08/08/2025 | learn data types and conditionals|
 | 11 | 09/08/2025 | exploration conditional and data types|
 | 12 | 10/08/2025 | fork and set up javascript-exercise from the odin project |
-| 13  |            |                               |
+| 13 | 11/08/2025 | fix my cv and apply for work again |
 | 14  |            |                               |
 | 15  |            |                               |
 | 16  |            |                               |
