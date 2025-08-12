@@ -15,7 +15,7 @@
 | 11 | 09/08/2025 | exploration conditional and data types|
 | 12 | 10/08/2025 | fork and set up javascript-exercise from the odin project |
 | 13 | 11/08/2025 | fix my cv and apply for work again |
-| 14  |            |                               |
+| 14 | 12/08/2025 | just read some tips how good fullstack portofolio is |
 | 15  |            |                               |
 | 16  |            |                               |
 | 17  |            |                               |
