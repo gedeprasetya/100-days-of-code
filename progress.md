@@ -16,7 +16,7 @@
 | 12 | 10/08/2025 | fork and set up javascript-exercise from the odin project |
 | 13 | 11/08/2025 | fix my cv and apply for work again |
 | 14 | 12/08/2025 | just read some tips how good fullstack portofolio is |
-| 15  |            |                               |
+| 15 | 13/08/2025 | learn chrome dev tools debugging |
 | 16  |            |                               |
 | 17  |            |                               |
 | 18  |            |                               |
