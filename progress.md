@@ -17,7 +17,7 @@
 | 13 | 11/08/2025 | fix my cv and apply for work again |
 | 14 | 12/08/2025 | just read some tips how good fullstack portofolio is |
 | 15 | 13/08/2025 | learn chrome dev tools debugging |
-| 16  |            |                               |
+| 16 | 14/08/2025 | Fundamentals of JavaScript Functions |
 | 17  |            |                               |
 | 18  |            |                               |
 | 19  |            |                               |
