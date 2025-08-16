@@ -19,7 +19,7 @@
 | 15 | 13/08/2025 | learn chrome dev tools debugging |
 | 16 | 14/08/2025 | Fundamentals of JavaScript Functions |
 | 17 | 15/08/2025 | Problem Solving |
-| 18  |            |                               |
+| 18 | 16/08/2025 | Research for a good project for portofolio |
 | 19  |            |                               |
 | 20  |            |                               |
 | 21  |            |                               |
