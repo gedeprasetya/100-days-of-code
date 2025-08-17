@@ -20,7 +20,7 @@
 | 16 | 14/08/2025 | Fundamentals of JavaScript Functions |
 | 17 | 15/08/2025 | Problem Solving |
 | 18 | 16/08/2025 | Research for a good project for portofolio |
-| 19  |            |                               |
+| 19 | 17/08/2025 | Research for a good project for portofolio 2.0 |
 | 20  |            |                               |
 | 21  |            |                               |
 | 22  |            |                               |
