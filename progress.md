@@ -22,7 +22,7 @@
 | 18 | 16/08/2025 | Research for a good project for portofolio |
 | 19 | 17/08/2025 | Research for a good project for portofolio 2.0 |
 | 20 | 18/08/2025 | FizzBuzz challenge |
-| 21  |            |                               |
+| 21 | 19/08/2025 | How to think like a programmer |
 | 22  |            |                               |
 | 23  |            |                               |
 | 24  |            |                               |
