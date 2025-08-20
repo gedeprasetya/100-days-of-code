@@ -2,10 +2,10 @@
 
 | Day | Date       | Progress Notes                |
 |----|------------|-------------------------------|
-| 1  | 30/07/2025 | Links and image in html      |
-| 2  | 31/07/2025 | Cascade and box model CSS    |
+| 1  | 30/07/2025 | Links and image in html        |
+| 2  | 31/07/2025 | Cascade and box model CSS      |
 | 3  | 01/08/2025 | Ganti VM Ubuntu Dengan dual boot ubuntu|
-| 4  | 02/08/2025 | Push odin project recipes    |
+| 4  | 02/08/2025 | Push odin project recipes      |
 | 5  | 03/08/2025 | just read about the odin project and talk with my tech fellas|
 | 6  | 04/08/2025 | set up plan learning review weekly|
 | 7  | 05/08/2025 | submitted odin landing page assignment|
@@ -18,12 +18,12 @@
 | 14 | 12/08/2025 | just read some tips how good fullstack portofolio is |
 | 15 | 13/08/2025 | learn chrome dev tools debugging |
 | 16 | 14/08/2025 | Fundamentals of JavaScript Functions |
-| 17 | 15/08/2025 | Problem Solving |
+| 17 | 15/08/2025 | Problem Solving                 |
 | 18 | 16/08/2025 | Research for a good project for portofolio |
 | 19 | 17/08/2025 | Research for a good project for portofolio 2.0 |
 | 20 | 18/08/2025 | FizzBuzz challenge |
 | 21 | 19/08/2025 | How to think like a programmer |
-| 22  |            |                               |
+| 22 | 20/08/2025 | Understanding Errors           |
 | 23  |            |                               |
 | 24  |            |                               |
 | 25  |            |                               |
