@@ -24,7 +24,7 @@
 | 20 | 18/08/2025 | FizzBuzz challenge |
 | 21 | 19/08/2025 | How to think like a programmer |
 | 22 | 20/08/2025 | Understanding Errors           |
-| 23  |            |                               |
+| 23 | 21/08/2025 | fix cv and start rock paper scissor challenge |
 | 24  |            |                               |
 | 25  |            |                               |
 | 26  |            |                               |
