@@ -25,8 +25,8 @@
 | 21 | 19/08/2025 | How to think like a programmer |
 | 22 | 20/08/2025 | Understanding Errors           |
 | 23 | 21/08/2025 | fix cv and start rock paper scissor challenge |
-| 24  |            |                               |
-| 25  |            |                               |
+| 24 | 22/08/2025 | make wellcome menu and game rules |
+| 25 | 23/08/2025 | finishing rps challenge        |
 | 26  |            |                               |
 | 27  |            |                               |
 | 28  |            |                               |
