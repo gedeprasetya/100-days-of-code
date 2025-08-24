@@ -27,7 +27,7 @@
 | 23 | 21/08/2025 | fix cv and start rock paper scissor challenge |
 | 24 | 22/08/2025 | make wellcome menu and game rules |
 | 25 | 23/08/2025 | finishing rps challenge        |
-| 26  |            |                               |
+| 26 | 24/08/2025 | uni preparation & linkedin polish|
 | 27  |            |                               |
 | 28  |            |                               |
 | 29  |            |                               |
