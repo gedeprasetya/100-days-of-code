@@ -28,7 +28,7 @@
 | 24 | 22/08/2025 | make wellcome menu and game rules |
 | 25 | 23/08/2025 | finishing rps challenge        |
 | 26 | 24/08/2025 | uni preparation & linkedin polish|
-| 27  |            |                               |
+| 27 | 25/08/2025 | clean code                     |
 | 28  |            |                               |
 | 29  |            |                               |
 | 30  |            |                               |
