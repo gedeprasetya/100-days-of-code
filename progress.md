@@ -29,7 +29,7 @@
 | 25 | 23/08/2025 | finishing rps challenge        |
 | 26 | 24/08/2025 | uni preparation & linkedin polish|
 | 27 | 25/08/2025 | clean code                     |
-| 28  |            |                               |
+| 28 | 26/08/2025 | interview preparation for tommorow |
 | 29  |            |                               |
 | 30  |            |                               |
 | 31  |            |                               |
