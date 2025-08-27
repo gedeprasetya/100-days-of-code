@@ -30,7 +30,7 @@
 | 26 | 24/08/2025 | uni preparation & linkedin polish|
 | 27 | 25/08/2025 | clean code                     |
 | 28 | 26/08/2025 | interview preparation for tommorow |
-| 29  |            |                               |
+| 29 | 27/08/2025 | choose one project and advanced it |
 | 30  |            |                               |
 | 31  |            |                               |
 | 32  |            |                               |
