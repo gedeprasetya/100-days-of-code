@@ -31,7 +31,7 @@
 | 27 | 25/08/2025 | clean code                     |
 | 28 | 26/08/2025 | interview preparation for tommorow |
 | 29 | 27/08/2025 | choose one project and advanced it |
-| 30  |            |                               |
+| 30 | 28/08/2025 | make online shop project |
 | 31  |            |                               |
 | 32  |            |                               |
 | 33  |            |                               |
