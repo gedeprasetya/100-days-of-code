@@ -33,7 +33,7 @@
 | 29 | 27/08/2025 | choose one project and advanced it |
 | 30 | 28/08/2025 | re-learn                       |
 | 31 | 29/08/2025 | re-learn                       |
-| 32  |            |                               |
+| 32  | 30/08/2025 | re-learn                        |
 | 33  |            |                               |
 | 34  |            |                               |
 | 35  |            |                               |
