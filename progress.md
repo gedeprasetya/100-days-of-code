@@ -1,4 +1,4 @@
-# 🚀 100 Days of Code Challenge
+no# 🚀 100 Days of Code Challenge
 
 | Day | Date       | Progress Notes                |
 |----|------------|-------------------------------|
@@ -38,8 +38,8 @@
 | 34 | 01/09/2025 | preparation for my 4th interview tommorow after i unemployeed from 4 june 2025, it's been around 3 month|
 | 35 | 02/09/2025 | 4th interview                  |
 | 36 | 03/09/2025 | doing challenge test after interview |
-| 37  | 04/09/2025   | re learn                  |
-| 38  |            |                               |
+| 37 | 04/09/2025 | re learn |
+| 38 | 05/09/2025 | re learn |
 | 39  |            |                               |
 | 40  |            |                               |
 | 41  |            |                               |
