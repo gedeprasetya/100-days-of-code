@@ -40,7 +40,7 @@ no# 🚀 100 Days of Code Challenge
 | 36 | 03/09/2025 | doing challenge test after interview |
 | 37 | 04/09/2025 | re learn |
 | 38 | 05/09/2025 | re learn |
-| 39  |            |                               |
+| 39 | 06/09/2025 | re learn |
 | 40  |            |                               |
 | 41  |            |                               |
 | 42  |            |                               |
