@@ -42,7 +42,7 @@ no# 🚀 100 Days of Code Challenge
 | 38 | 05/09/2025 | re learn |
 | 39 | 06/09/2025 | re learn |
 | 40 | 07/09/2025 | belajar seo persiapan interview junior seo  |
-| 41  |            |                               |
+| 41 | 08/09/2025 | interview done                 |
 | 42  |            |                               |
 | 43  |            |                               |
 | 44  |            |                               |
