@@ -45,7 +45,7 @@ no# 🚀 100 Days of Code Challenge
 | 41 | 08/09/2025 | interview done                 |
 | 42 | 09/09/2025 | re - learn                     |
 | 43 | 10/09/2025 | re - learn                     |
-| 44  |            |                               |
+| 44 | 11/09/2025 | belajar bikin ERD |
 | 45  |            |                               |
 | 46  |            |                               |
 | 47  |            |                               |
