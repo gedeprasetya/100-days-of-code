@@ -48,7 +48,7 @@ no# 🚀 100 Days of Code Challenge
 | 44 | 11/09/2025 | belajar bikin ERD              |
 | 45 | 12/09/2025 | re - learn                     |
 | 46 | 13/09/2025 | another bad interview, aku harus belajar dasar pemrograman javascript di wpu |
-| 47  |            |                               |
+| 47 | 14/09/2025 | dicoding  |
 | 48  |            |                               |
 | 49  |            |                               |
 | 50  |            |                               |
