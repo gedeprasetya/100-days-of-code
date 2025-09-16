@@ -50,7 +50,7 @@ no# 🚀 100 Days of Code Challenge
 | 46 | 13/09/2025 | another bad interview, aku harus belajar dasar pemrograman javascript di wpu |
 | 47 | 14/09/2025 | dicoding  |
 | 48 | 15/09/2025 | dicoding  |
-| 49  |            |                               |
+| 49 | 16/09/2025 | materi kuliah |
 | 50  |            |                               |
 | 51  |            |                               |
 | 52  |            |                               |
