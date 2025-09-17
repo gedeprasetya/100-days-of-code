@@ -51,7 +51,7 @@ no# 🚀 100 Days of Code Challenge
 | 47 | 14/09/2025 | dicoding  |
 | 48 | 15/09/2025 | dicoding  |
 | 49 | 16/09/2025 | materi kuliah |
-| 50  |            |                               |
+| 50 | 17/09/2025 | toko-online  |
 | 51  |            |                               |
 | 52  |            |                               |
 | 53  |            |                               |
