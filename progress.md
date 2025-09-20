@@ -53,8 +53,8 @@ no# 🚀 100 Days of Code Challenge
 | 49 | 16/09/2025 | materi kuliah |
 | 50 | 17/09/2025 | toko-online  |
 | 51 | 18/09/2025 | OSMB                           |
-| 52  | 19/09/2025 | re-learn |
-| 53  |            |                               |
+| 52 | 19/09/2025 | re-learn |
+| 53 | 20/09/2025 | pengantaran algoritma dan pemrograman |
 | 54  |            |                               |
 | 55  |            |                               |
 | 56  |            |                               |
