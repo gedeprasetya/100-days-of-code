@@ -56,7 +56,7 @@ no# 🚀 100 Days of Code Challenge
 | 52 | 19/09/2025 | re-learn |
 | 53 | 20/09/2025 | pengantaran algoritma dan pemrograman |
 | 54 | 21/09/2025 | variable, menulis js, popup box WPU |
-| 55  |            |                               |
+| 55 | 22/09/2025 | another interview preparation  |
 | 56  |            |                               |
 | 57  |            |                               |
 | 58  |            |                               |
