@@ -58,7 +58,7 @@ no# 🚀 100 Days of Code Challenge
 | 54 | 21/09/2025 | variable, menulis js, popup box WPU |
 | 55 | 22/09/2025 | another interview preparation  |
 | 56 | 23/09/2025 | weekly plan |
-| 57  |            |                               |
+| 57 | 24/09/2025 | sistem operasi dan sistem informasi manajemen |
 | 58  |            |                               |
 | 59  |            |                               |
 | 60  |            |                               |
