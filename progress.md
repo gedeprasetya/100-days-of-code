@@ -59,8 +59,8 @@ no# 🚀 100 Days of Code Challenge
 | 55 | 22/09/2025 | another interview preparation  |
 | 56 | 23/09/2025 | weekly plan |
 | 57 | 24/09/2025 | sistem operasi dan sistem informasi manajemen |
-| 58  |            |                               |
-| 59  |            |                               |
+| 58 | 25/09/2025 | re- learn |
+| 59 | 26/09/2025 | re-learn |
 | 60  |            |                               |
 | 61  |            |                               |
 | 62  |            |                               |
