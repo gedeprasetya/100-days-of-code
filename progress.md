@@ -61,7 +61,7 @@ no# 🚀 100 Days of Code Challenge
 | 57 | 24/09/2025 | sistem operasi dan sistem informasi manajemen |
 | 58 | 25/09/2025 | re- learn |
 | 59 | 26/09/2025 | re-learn |
-| 60  |            |                               |
+| 60 | 27/09/2025 | try codeguide.dev  |
 | 61  |            |                               |
 | 62  |            |                               |
 | 63  |            |                               |
