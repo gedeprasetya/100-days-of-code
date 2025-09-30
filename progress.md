@@ -64,7 +64,7 @@ no# 🚀 100 Days of Code Challenge
 | 60 | 27/09/2025 | try codeguide.dev  |
 | 61 | 28/09/2025 | pengantar matematika  |
 | 62 | 29/09/2025 | dicoding  |
-| 63  |            |                               |
+| 63 | 30/09/2025 | learn |
 | 64  |            |                               |
 | 65  |            |                               |
 | 66  |            |                               |
