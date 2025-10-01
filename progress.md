@@ -65,7 +65,7 @@ no# 🚀 100 Days of Code Challenge
 | 61 | 28/09/2025 | pengantar matematika  |
 | 62 | 29/09/2025 | dicoding  |
 | 63 | 30/09/2025 | learn |
-| 64  |            |                               |
+| 64 | 01/10/2025 | learn |
 | 65  |            |                               |
 | 66  |            |                               |
 | 67  |            |                               |
