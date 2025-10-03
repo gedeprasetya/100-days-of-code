@@ -67,7 +67,7 @@
 | 63  | 30/09/2025 | Learn                                                                          |
 | 64  | 01/10/2025 | Learn                                                                          |
 | 65  | 02/10/2025 | Hunting job lagi                                                               |
-| 66  |            |                                                                                |
+| 66  | 03/10/2025 | interview ke-6/ke-7 since nganggur                                             |
 | 65  |            |                                                                                |
 | 65  |            |                                                                                |
 | 65  |            |                                                                                |
