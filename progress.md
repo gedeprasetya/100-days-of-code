@@ -69,7 +69,7 @@
 | 65  | 02/10/2025 | Hunting job lagi                                                               |
 | 66  | 03/10/2025 | interview ke-6/ke-7 since nganggur                                             |
 | 65  | 04/10/2025 | learn                                                                          |
-| 65  |            |                                                                                |
+| 65  | 07/10/2025 | himpunan matematika                                                            |
 | 65  |            |                                                                                |
 | 65  |            |                                                                                |
 | 65  |            |                                                                                |
