@@ -70,7 +70,7 @@
 | 66  | 03/10/2025 | interview ke-6/ke-7 since nganggur                                             |
 | 65  | 04/10/2025 | learn                                                                          |
 | 65  | 07/10/2025 | himpunan matematika                                                            |
-| 65  |            |                                                                                |
+| 65  | 09/10/2025 | tuton                                                                          |
 | 65  |            |                                                                                |
 | 65  |            |                                                                                |
 | 65  |            |                                                                                |
