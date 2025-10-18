@@ -71,7 +71,7 @@
 | 65  | 04/10/2025 | learn                                                                          |
 | 65  | 07/10/2025 | himpunan matematika                                                            |
 | 65  | 09/10/2025 | tuton                                                                          |
-| 65  |            |                                                                                |
+| 65  | 18/10/2025 | Computational thinking                                                         |
 | 65  |            |                                                                                |
 | 65  |            |                                                                                |
 | 65  |            |                                                                                |
